@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AwareHome</string>
+	<string name="cerrar_sesion">Cerrar Sesión</string>
+	<string name="ingresar"> Ingresar </string>
+	<string name="clave">Clave</string>
+	<string name="usuario">Nombre De Usuario</string>
+	<string name="temperatura">Temperatura</string>
+	<string name="humedad">Humedad</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/Opc2"
+        android:title="@string/cerrar_sesion"
+        android:textColor="#111111">
+    </item>
+    <item
+        android:id="@+id/Opc1"
+        android:title="Crear alerta"
+        android:textColor="#111111">
+    </item>
+    <item
+        android:id="@+id/Opc3"
+        android:title="Ver alertas"
+        android:textColor="#111111">
+    </item>
+    
+</menu>
